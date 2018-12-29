@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '1499603656@qq.com' => 'feng.ma@patpat.com' }
   s.source           = { :git => 'https://github.com/mafeng-Bryant/MExtensions.git', :tag => s.version.to_s }
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '8.0'
   s.source_files = 'MExtensions/Classes/**/*'
   
   # s.resource_bundles = {
