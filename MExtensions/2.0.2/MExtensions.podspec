@@ -37,4 +37,5 @@ TODO: Add long description of the pod here.
   s.dependency 'SDWebImage'
   s.dependency 'MAESCrypt', '~> 1.0.0'
   s.dependency 'MUIFont', '~> 1.0.0'
+  s.dependency 'MLocalizedStringKit', '~> 1.0.0'
 end
